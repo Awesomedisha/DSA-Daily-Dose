@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0399-evaluate-division](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0399-evaluate-division) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1090-largest-values-from-labels](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1090-largest-values-from-labels) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -79,11 +80,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1090-largest-values-from-labels](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1090-largest-values-from-labels) |
 ## Sorting
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1090-largest-values-from-labels](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1090-largest-values-from-labels) |
 ## Stack
 |  |
 | ------- |
@@ -113,8 +116,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1090-largest-values-from-labels](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1090-largest-values-from-labels) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Counting
+|  |
+| ------- |
+| [1090-largest-values-from-labels](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1090-largest-values-from-labels) |
 <!---LeetCode Topics End-->
