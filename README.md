@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0258-add-digits) |
 ## String
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0258-add-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0399-evaluate-division) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
