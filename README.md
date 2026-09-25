@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0392-is-subsequence) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Array
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0399-evaluate-division) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1090-largest-values-from-labels](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1090-largest-values-from-labels) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0341-flatten-nested-list-iterator) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Tree
 |  |
 | ------- |
@@ -117,12 +120,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1090-largest-values-from-labels](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1090-largest-values-from-labels) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Counting
 |  |
 | ------- |
 | [1090-largest-values-from-labels](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1090-largest-values-from-labels) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 <!---LeetCode Topics End-->
