@@ -101,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0341-flatten-nested-list-iterator) |
+## Database
+|  |
+| ------- |
+| [3451-find-invalid-ip-addresses](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/3451-find-invalid-ip-addresses) |
 <!---LeetCode Topics End-->
