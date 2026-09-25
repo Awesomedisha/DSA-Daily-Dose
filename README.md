@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0392-is-subsequence) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0399-evaluate-division](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0399-evaluate-division) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -81,10 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Stack
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0341-flatten-nested-list-iterator) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Tree
 |  |
 | ------- |
@@ -105,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3451-find-invalid-ip-addresses](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/3451-find-invalid-ip-addresses) |
+## Greedy
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
