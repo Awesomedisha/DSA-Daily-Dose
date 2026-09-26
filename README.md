@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0043-multiply-strings) |
 | [0392-is-subsequence](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0399-evaluate-division) |
+| [1529-minimum-suffix-flips](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1529-minimum-suffix-flips) |
 ## Simulation
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0860-lemonade-change) |
 | [1090-largest-values-from-labels](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1090-largest-values-from-labels) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1529-minimum-suffix-flips](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1529-minimum-suffix-flips) |
 ## Monotonic Stack
 |  |
 | ------- |
