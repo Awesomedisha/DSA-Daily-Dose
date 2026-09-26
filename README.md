@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0399-evaluate-division](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0399-evaluate-division) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0860-lemonade-change](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0860-lemonade-change) |
 | [1090-largest-values-from-labels](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1090-largest-values-from-labels) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Depth-First Search
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0860-lemonade-change](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0860-lemonade-change) |
 | [1090-largest-values-from-labels](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1090-largest-values-from-labels) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Monotonic Stack
