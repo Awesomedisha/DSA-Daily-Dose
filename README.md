@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0061-rotate-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0392-is-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -156,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0107-binary-tree-level-order-traversal-ii) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
