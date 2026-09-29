@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0043-multiply-strings) |
+| [0233-number-of-digit-one](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0258-add-digits) |
 ## String
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0233-number-of-digit-one](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0233-number-of-digit-one) |
 | [0392-is-subsequence](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0392-is-subsequence) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Array
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+## Recursion
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0233-number-of-digit-one) |
 <!---LeetCode Topics End-->
