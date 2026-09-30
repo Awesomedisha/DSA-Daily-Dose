@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0133-clone-graph) |
 | [0341-flatten-nested-list-iterator](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0341-flatten-nested-list-iterator) |
 | [0399-evaluate-division](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0399-evaluate-division) |
+| [0572-subtree-of-another-tree](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0222-count-complete-tree-nodes) |
 | [0341-flatten-nested-list-iterator](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0341-flatten-nested-list-iterator) |
+| [0572-subtree-of-another-tree](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0572-subtree-of-another-tree) |
 ## Design
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0222-count-complete-tree-nodes) |
+| [0572-subtree-of-another-tree](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0572-subtree-of-another-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -168,4 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0222-count-complete-tree-nodes) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
