@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0222-count-complete-tree-nodes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0222-count-complete-tree-nodes) |
 | [0341-flatten-nested-list-iterator](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0341-flatten-nested-list-iterator) |
 ## Design
 |  |
@@ -157,8 +159,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0222-count-complete-tree-nodes) |
 ## Linked List
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0061-rotate-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
