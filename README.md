@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0307-range-sum-query-mutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0399-evaluate-division](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0403-frog-jump) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0307-range-sum-query-mutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0341-flatten-nested-list-iterator) |
 ## Queue
 |  |
@@ -183,4 +185,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0572-subtree-of-another-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0307-range-sum-query-mutable) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
