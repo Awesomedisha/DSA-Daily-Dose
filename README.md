@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0043-multiply-strings) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0392-is-subsequence](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0399-evaluate-division) |
 | [1529-minimum-suffix-flips](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1529-minimum-suffix-flips) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0098-validate-binary-search-tree) |
 | [0133-clone-graph](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0133-clone-graph) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0341-flatten-nested-list-iterator](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0341-flatten-nested-list-iterator) |
 | [0399-evaluate-division](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0399-evaluate-division) |
 | [0572-subtree-of-another-tree](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0572-subtree-of-another-tree) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0307-range-sum-query-mutable](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0307-range-sum-query-mutable) |
 | [0341-flatten-nested-list-iterator](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0341-flatten-nested-list-iterator) |
 ## Queue
@@ -208,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0098-validate-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
