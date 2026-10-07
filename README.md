@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1179-reformat-department-table](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1179-reformat-department-table) |
 | [3451-find-invalid-ip-addresses](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/3451-find-invalid-ip-addresses) |
 ## Greedy
 |  |
