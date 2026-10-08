@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0399-evaluate-division) |
 | [0572-subtree-of-another-tree](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0572-subtree-of-another-tree) |
 | [0655-print-binary-tree](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0655-print-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0872-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0341-flatten-nested-list-iterator) |
 | [0572-subtree-of-another-tree](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0572-subtree-of-another-tree) |
 | [0655-print-binary-tree](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0655-print-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0872-leaf-similar-trees) |
 ## Design
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0222-count-complete-tree-nodes) |
 | [0572-subtree-of-another-tree](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0572-subtree-of-another-tree) |
 | [0655-print-binary-tree](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0655-print-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0872-leaf-similar-trees) |
 ## Linked List
 |  |
 | ------- |
