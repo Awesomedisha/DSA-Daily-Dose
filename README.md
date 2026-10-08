@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0392-is-subsequence](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0399-evaluate-division) |
+| [0647-palindromic-substrings](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0647-palindromic-substrings) |
 | [1529-minimum-suffix-flips](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1529-minimum-suffix-flips) |
 ## Simulation
 |  |
@@ -29,12 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0392-is-subsequence) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0647-palindromic-substrings](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0233-number-of-digit-one) |
 | [0392-is-subsequence](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0403-frog-jump) |
+| [0647-palindromic-substrings](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0647-palindromic-substrings) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Array
 |  |
