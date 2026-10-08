@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0403-frog-jump) |
 | [0647-palindromic-substrings](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0647-palindromic-substrings) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Array
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0404-sum-of-left-leaves) |
 | [0655-print-binary-tree](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0655-print-binary-tree) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Union-Find
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0133-clone-graph) |
 | [0399-evaluate-division](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0399-evaluate-division) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Shortest Path
 |  |
 | ------- |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0222-count-complete-tree-nodes) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## String Matching
 |  |
 | ------- |
@@ -233,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0211-design-add-and-search-words-data-structure) |
+## Bitmask
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0847-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
