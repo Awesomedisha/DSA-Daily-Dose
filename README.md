@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0233-number-of-digit-one) |
+| [0338-counting-bits](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0403-frog-jump) |
 | [0647-palindromic-substrings](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0647-palindromic-substrings) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0222-count-complete-tree-nodes) |
+| [0338-counting-bits](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0338-counting-bits) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## String Matching
 |  |
