@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0133-clone-graph](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0133-clone-graph) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0341-flatten-nested-list-iterator](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0341-flatten-nested-list-iterator) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0341-flatten-nested-list-iterator](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0341-flatten-nested-list-iterator) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1130-minimum-cost-tree-from-leaf-values) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0098-validate-binary-search-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0222-count-complete-tree-nodes) |
 | [0341-flatten-nested-list-iterator](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0404-sum-of-left-leaves) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0098-validate-binary-search-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0222-count-complete-tree-nodes](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0572-subtree-of-another-tree) |
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0061-rotate-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
