@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0275-h-index-ii](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0275-h-index-ii) |
 | [0307-range-sum-query-mutable](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0307-range-sum-query-mutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0399-evaluate-division](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0399-evaluate-division) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0222-count-complete-tree-nodes) |
+| [0275-h-index-ii](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0275-h-index-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
