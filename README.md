@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0043-multiply-strings) |
 | [0233-number-of-digit-one](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0258-add-digits) |
+| [1360-number-of-days-between-two-dates](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1360-number-of-days-between-two-dates) |
 ## String
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0399-evaluate-division) |
 | [0647-palindromic-substrings](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0647-palindromic-substrings) |
+| [1360-number-of-days-between-two-dates](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1360-number-of-days-between-two-dates) |
 | [1529-minimum-suffix-flips](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1529-minimum-suffix-flips) |
 ## Simulation
 |  |
