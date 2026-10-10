@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0043-multiply-strings) |
 | [0233-number-of-digit-one](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0258-add-digits) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0002-add-two-numbers) |
 | [0233-number-of-digit-one](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0233-number-of-digit-one) |
 ## Binary Tree
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Bit Manipulation
