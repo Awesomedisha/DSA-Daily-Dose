@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-calculate-special-bonus](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1890-the-latest-login-in-2020) |
 | [3451-find-invalid-ip-addresses](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/3451-find-invalid-ip-addresses) |
+| [3475-dna-pattern-recognition](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/3475-dna-pattern-recognition) |
 ## Greedy
 |  |
 | ------- |
