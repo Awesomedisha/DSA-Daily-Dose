@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1179-reformat-department-table](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1179-reformat-department-table) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1204-last-person-to-fit-in-the-bus) |
+| [1890-the-latest-login-in-2020](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1890-the-latest-login-in-2020) |
 | [3451-find-invalid-ip-addresses](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/3451-find-invalid-ip-addresses) |
 ## Greedy
 |  |
