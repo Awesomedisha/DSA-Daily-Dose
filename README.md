@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1873-calculate-special-bonus](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/1890-the-latest-login-in-2020) |
+| [3220-odd-and-even-transactions](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/3220-odd-and-even-transactions) |
 | [3451-find-invalid-ip-addresses](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/3451-find-invalid-ip-addresses) |
 | [3475-dna-pattern-recognition](https://github.com/Awesomedisha/DSA-Daily-Dose/tree/master/3475-dna-pattern-recognition) |
 ## Greedy
